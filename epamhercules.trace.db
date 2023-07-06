@@ -1,0 +1,3 @@
+2023-07-06 06:27:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EMPLOYEE" not found; SQL statement:
+SELECT count(1) FROM Employee where mobile_number=? [42102-214]
